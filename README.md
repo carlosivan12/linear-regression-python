@@ -1,2 +1,2 @@
-# linear-regression-python
-linear regression - SVD- PCA building an artificial intelligence model
+# Linear-regression-python
+Building an artificial intelligence model applying linear regression - SVD- PCA 
